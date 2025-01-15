@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Umair Shakoor
 
-I’m a **beginner full-stack developer** on a mission to master the **MERN stack** (or any other stack that sparks my interest!). I’m passionate about learning new technologies, building projects, and solving real-world problems. This GitHub profile is where I share my **code updates**, **learning progress**, and **experiments** as I grow my skills.
+Welcome to my **README repository**! This is where I document my journey as a **beginner frontend developer**. I’m passionate about learning **HTML, CSS, JavaScript**, and eventually **React** to build beautiful and functional websites. Here, you’ll find my **code updates**, **learning progress**, and **experiments** as I grow my skills.
 
 ---
 
@@ -10,8 +10,6 @@ I’m a **beginner full-stack developer** on a mission to master the **MERN stac
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
@@ -20,14 +18,14 @@ I’m a **beginner full-stack developer** on a mission to master the **MERN stac
 Here’s where I document my learning journey:
 - **HTML**: Code examples and notes for mastering HTML. [Explore HTML Repo](https://github.com/UmairShakoor/HTML)
 - **CSS**: Exploring styling techniques and responsive design. [Explore CSS Repo](https://github.com/UmairShakoor/CSS)
-- **Coming Soon**: JavaScript, React, Node.js, and more!
+- **Coming Soon**: JavaScript, React, and more!
 
 ---
 
 ## 🌱 My Goals
 
-- Master the **MERN stack** (or any other stack I explore).
-- Build real-world projects to solve problems.
+- Master **frontend development** (HTML, CSS, JavaScript, and React).
+- Build visually appealing and responsive websites.
 - Contribute to open-source and collaborate with others.
 
 ---
@@ -50,4 +48,4 @@ I’m always open to collaboration, feedback, and learning opportunities. Feel f
 
 ---
 
-Happy Coding! Let’s build something amazing together! 🚀
+Happy Coding! Let’s build something amazing together! 🚀  
