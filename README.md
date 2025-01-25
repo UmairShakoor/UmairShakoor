@@ -44,8 +44,19 @@ Here are some resources I use to learn:
 I’m always open to collaboration, feedback, and learning opportunities. Feel free to reach out:
 - **GitHub**: [UmairShakoor](https://github.com/UmairShakoor)
 - **LinkedIn**: Coming Soon!
-- **Email**: Coming Soon!
+- **Email**: [unicoderone1@gmail.com](mailto:unicoderone1@gmail.com).
+---
+
+## ©️ Copyright Notice
+
+Copyright (c) 2025 Umair Shakoor
+
+All Rights Reserved.
+
+This repository and its contents are protected by copyright laws. No part of this work may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the copyright owner.
+
+For permissions, contact [unicoderone1@gmail.com](mailto:unicoderone1@gmail.com).
 
 ---
 
-Happy Coding! Let’s build something amazing together! 🚀  
+Happy Coding! Let’s build something amazing together! 🚀
