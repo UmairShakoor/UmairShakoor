@@ -18,7 +18,8 @@ Welcome to my **README repository**! This is where I document my journey as a **
 Here’s where I document my learning journey:
 - **HTML**: Code examples and notes for mastering HTML. [Explore HTML Repo](https://github.com/UmairShakoor/HTML)
 - **CSS**: Exploring styling techniques and responsive design. [Explore CSS Repo](https://github.com/UmairShakoor/CSS)
-- **Coming Soon**: JavaScript, React, and more!
+- **JS**: Magic to build interactive websites. [Explore JS Repo](https://github.com/UmairShakoor/JS)
+- **Coming Soon**: React, and more!
 
 ---
 
