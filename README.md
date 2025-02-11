@@ -44,7 +44,7 @@ Here are some resources I use to learn:
 I’m always open to collaboration, feedback, and learning opportunities. Feel free to reach out:
 - **GitHub**: [UmairShakoor](https://github.com/UmairShakoor)
 - **LinkedIn**: Coming Soon!
-- **Email**: [unicoderone1@gmail.com](mailto:unicoderone1@gmail.com).
+- **Email**: [umairshakoor.pro@outlook.com](mailto:umairshakoor.pro@outlook.com).
 ---
 
 ## ©️ Copyright Notice
@@ -55,7 +55,7 @@ All Rights Reserved.
 
 This repository and its contents are protected by copyright laws. No part of this work may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the copyright owner.
 
-For permissions, contact [unicoderone1@gmail.com](mailto:unicoderone1@gmail.com).
+For permissions, contact [umairshakoor.pro@outlook.com](mailto:umairshakoor.pro@outlook.com).
 
 ---
 
