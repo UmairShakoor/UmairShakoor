@@ -45,6 +45,7 @@ Here are some resources I use to learn:
 I’m always open to collaboration, feedback, and learning opportunities. Feel free to reach out:
 - **GitHub**: [UmairShakoor](https://github.com/UmairShakoor/).
 - **LinkedIn**: [UmairShakoor](https://www.linkedin.com/in/umair-shakoor/).
+- **Twitter(X)** : [UmairShakoor](https://x.com/theUmairShakoor).
 - **Email**: [umairshakoor.pro@gmail.com](mailto:umairshakoor.pro@gmail.com).
 ---
 
