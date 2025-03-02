@@ -45,11 +45,10 @@ Here are some resources I use to learn:
 ## 🤝 Let’s Connect!
 
 I’m always open to collaboration, feedback, and learning opportunities. Feel free to reach out:
-- [GitHub](https://github.com/UmairShakoor/).
-- [Linkedin](https://www.linkedin.com/in/theumairshakoor/).
-- [Twitter (X)](https://x.com/theUmairShakoor/).
+- [Linkedin](https://www.linkedin.com/in/theumairshakoor/)
+- [Twitter (X)](https://x.com/theUmairShakoor/)
 - [Dev.to](https://dev.to/umairshakoor/)
-- [Email](mailto:umairshakoor.pro@gmail.com).
+- [Email](mailto:umairshakoor.pro@gmail.com)
 
 ---
 
