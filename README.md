@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Umair Shakoor
 
-Welcome to my **README repository**! This is where I document my journey as a **beginner frontend developer**. I’m passionate about learning **HTML, CSS, JavaScript**, and eventually **React** to build beautiful and functional websites. Here, you’ll find my **code updates**, **learning progress**, and **experiments** as I grow my skills.
+Welcome to my **README repository**! This is where I document my journey as a **beginner front-end developer**. I’m passionate about learning **HTML, CSS, JavaScript**, and eventually **React** to build beautiful and functional websites. Here, you’ll find my **code updates**, **learning progress**, and **experiments** as I grow my skills.
 
 ---
 
@@ -19,6 +19,8 @@ Here’s where I document my learning journey:
 - **HTML**: Code examples and notes for mastering HTML. [Explore HTML Repo](https://github.com/UmairShakoor/HTML)
 - **CSS**: Exploring styling techniques and responsive design. [Explore CSS Repo](https://github.com/UmairShakoor/CSS)
 - **JS**: Magic to build interactive websites. [Explore JS Repo](https://github.com/UmairShakoor/JS)
+- **DevPlayground**: A collection of small projects and experiments. [Explore DevPlayground](https://github.com/UmairShakoor/DevPlayground/)
+- **Frontend Mentor Challenges**: Solutions to challenges from Frontend Mentor. [Explore Frontend Mentor Challenges](https://github.com/UmairShakoor/FrontendMentor.io_Proj)
 - **Coming Soon**: React, and more!
 
 ---
@@ -43,10 +45,12 @@ Here are some resources I use to learn:
 ## 🤝 Let’s Connect!
 
 I’m always open to collaboration, feedback, and learning opportunities. Feel free to reach out:
-- **GitHub**: [UmairShakoor](https://github.com/UmairShakoor/).
-- **LinkedIn**: [UmairShakoor](https://www.linkedin.com/in/umair-shakoor/).
-- **Twitter (X)** : [UmairShakoor](https://x.com/theUmairShakoor).
-- **Email**: [umairshakoor.pro@gmail.com](mailto:umairshakoor.pro@gmail.com).
+- [GitHub](https://github.com/UmairShakoor/).
+- [Linkedin](https://www.linkedin.com/in/theumairshakoor/).
+- [Twitter (X)](https://x.com/theUmairShakoor/).
+- [Dev.to](https://dev.to/umairshakoor/)
+- [Email](mailto:umairshakoor.pro@gmail.com).
+
 ---
 
 ## ©️ Copyright Notice
@@ -55,9 +59,9 @@ Copyright (c) 2025 Umair Shakoor
 
 All Rights Reserved.
 
-This repository and its contents are protected by copyright laws. No part of this work may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the copyright owner.
+This repo and its contents are protected by copyright laws. No part of this work may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the copyright owner.
 
-For permissions, contact [umairshakoor.pro@gmail.com](mailto:umairshakoor.pro@gmail.com).
+For permissions, contact [gmail](mailto:umairshakoor.pro@gmail.com).
 
 ---
 
