@@ -12,15 +12,6 @@ Greetings from my **README repository**! . Join my journey in **Cyber Security**
 
 ---
 
-## 📂 My Repositories
-
-Here’s where I document my learning journey:
-- **Cyber Security**: Coming Soon..
-- **DevPlayground**: A collection of small projects and experiments. [Explore DevPlayground](https://github.com/UmairShakoor/DevPlayground/)
-- **Coming Soon**: More cybersecurity resources and projects!
-
----
-
 ## 🌱 My Goals
 
 - Master **cybersecurity fundamentals** and best practices.
