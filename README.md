@@ -1,51 +1,46 @@
-# 👋 Hi, I’m Umair Shakoor
+# 👋 Hello My name is Umair Shakoor.
 
-Welcome to my **README repository**! This is where I document my journey as a **beginner front-end developer**. I’m passionate about learning **HTML, CSS, JavaScript**, and eventually **React** to build beautiful and functional websites. Here, you’ll find my **code updates**, **learning progress**, and **experiments** as I grow my skills.
+Greetings from my **README repository**! . Join my journey in **Cyber Security** . I have a strong desire to understand the foundations of cybersecurity and investigate different security procedures. My **code updates**, **learning progress**, and **experiments** as I develop my abilities are all available here.
 
 ---
 
 ## 🛠️ What I’m Learning
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-FF3C00?style=flat&logo=security&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0077B3?style=flat&logo=networking&logoColor=white)
 
 ---
 
 ## 📂 My Repositories
 
 Here’s where I document my learning journey:
-- **HTML**: Code examples and notes for mastering HTML. [Explore HTML Repo](https://github.com/UmairShakoor/HTML)
-- **CSS**: Exploring styling techniques and responsive design. [Explore CSS Repo](https://github.com/UmairShakoor/CSS)
-- **JS**: Magic to build interactive websites. [Explore JS Repo](https://github.com/UmairShakoor/JS)
+- **Cyber Security**: Coming Soon..
 - **DevPlayground**: A collection of small projects and experiments. [Explore DevPlayground](https://github.com/UmairShakoor/DevPlayground/)
-- **Frontend Mentor Challenges**: Solutions to challenges from Frontend Mentor. [Explore Frontend Mentor Challenges](https://github.com/UmairShakoor/FrontendMentor.io_Proj)
-- **Coming Soon**: React, and more!
+- **Coming Soon**: More cybersecurity resources and projects!
 
 ---
 
 ## 🌱 My Goals
 
-- Master **frontend development** (HTML, CSS, JavaScript, and React).
-- Build visually appealing and responsive websites.
-- Contribute to open-source and collaborate with others.
+- Master **cybersecurity fundamentals** and best practices.
+- Explore penetration testing and vulnerability assessment.
+- Contribute to open-source cybersecurity projects and collaborate with others.
 
 ---
 
 ## 📚 Learning Resources
 
 Here are some resources I use to learn:
-- [CodeWithHarry](https://www.codewithharry.com/)
-- [MDN Web Docs](https://developer.mozilla.org/)
-- [W3Schools](https://www.w3schools.com/)
+- [Youtube - @WS Cube Security](https://www.youtube.com/@WsCubeCyberSecurity)
+- [TryHackMe](https://tryhackme.com/p/umairshakoor)
 
 ---
 
 ## 🤝 Let’s Connect!
 
 I’m always open to collaboration, feedback, and learning opportunities. Feel free to reach out:
-- [Linkedin](https://www.linkedin.com/in/theumairshakoor/)
+- [LinkedIn](https://www.linkedin.com/in/theumairshakoor/)
 - [Twitter (X)](https://x.com/theUmairShakoor/)
 - [Dev.to](https://dev.to/umairshakoor/)
 - [Email](mailto:umairshakoor.pro@gmail.com)
@@ -64,4 +59,4 @@ For permissions, contact [gmail](mailto:umairshakoor.pro@gmail.com).
 
 ---
 
-Happy Coding! Let’s build something amazing together! 🚀
+Onward to learning! Together, let's protect the digital world! 🚀
